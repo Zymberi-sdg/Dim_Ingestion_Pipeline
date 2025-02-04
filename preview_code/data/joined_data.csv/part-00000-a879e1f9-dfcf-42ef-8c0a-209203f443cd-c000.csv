@@ -1,0 +1,11 @@
+store_key,address,city_name,state_abbr,zipcode,store_name,store_category,units_available,month_name,calendar_year,quarter_name
+1,123 Main St,Springfield,IL,62701,Springfield,Electronics,150,January,2025,Q1
+2,456 Oak St,Peoria,IL,61602,Peoria,Hardware,200,February,2025,Q1
+3,789 Pine St,Champaign,IL,61820,Champaign,Apparel,IL,March,2025,Q1
+4,101 Maple St,Chicago,IL,60601,Chicago,Books,IL,April,2025,Q2
+5,202 Birch St,Naperville,IL,60540,Naperville,Groceries,IL,May,2025,Q2
+6,303 Cedar St,Aurora,IL,60506,Aurora,Appliances,IL,June,2025,Q2
+7,404 Elm St,Bloomington,IL,61701,Bloomington,Toys,IL,July,2025,Q3
+8,505 Fir St,Decatur,IL,62521,Decatur,Sports,IL,August,2025,Q3
+9,606 Willow St,Rockford,IL,61107,Rockford,Furniture,IL,September,2025,Q3
+10,707 Ash St,Joliet,IL,60431,Joliet,Music,IL,October,2025,Q4

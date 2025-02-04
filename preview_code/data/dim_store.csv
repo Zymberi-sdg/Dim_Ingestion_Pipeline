@@ -1,0 +1,11 @@
+store_key,store_name,store_type,city,state,store_units
+1,Springfield,Electronics,Springfield,IL,150
+2,Peoria,Hardware,Peoria,IL,200
+3,Champaign,Apparel,Clothing,Champaign,IL,180
+4,Chicago,Books,Books,Chicago,IL,250
+5,Naperville,Groceries,Groceries,Naperville,IL,300
+6,Aurora,Appliances,Appliances,Aurora,IL,220
+7,Bloomington,Toys,Toys,Bloomington,IL,170
+8,Decatur,Sports,Sports,Decatur,IL,210
+9,Rockford,Furniture,Furniture,Rockford,IL,160
+10,Joliet,Music,Music,Joliet,IL,190
